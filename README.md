@@ -1,1 +1,1 @@
-# insurance_data_project
+# insurance_data_sql_project
